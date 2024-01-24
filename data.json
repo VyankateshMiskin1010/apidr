@@ -12,7 +12,7 @@
             "name": "Dr. Sharma",
             "expertise": "Ophthalmologist",
             "city": "Mumbai",
-            "image_link": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            "image_link": "https://unsplash.com/photos/bearded-serious-doctor-or-intern-in-uniform-making-working-notes-while-sitting-by-table-in-front-of-computer-in-clinics-GImZb6EBgcY"
         },
         {
             "id": 3,
@@ -30,45 +30,45 @@
         },
         {
             "id": 5,
-            "name": "Dr. Khan",
+            "name": "Dr. Soniya Khan",
             "expertise": "Obstetrician",
             "city": "Bangalore",
-            "image_link": "https://plus.unsplash.com/premium_photo-1661396927602-fab2bb517246?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            "image_link": "https://specialisthospital.in/wp-content/uploads/2023/05/NewDoctorsWebsite-Anitha.jpg"
         },
         {
             "id": 6,
-            "name": "Dr. Joshi",
+            "name": "Dr. Atul Joshi",
             "expertise": "Psychiatrist",
             "city": "Pune",
             "image_link": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "id": 7,
-            "name": "Dr. Malhotra",
+            "name": "Dr. Sheetal Malhotra",
             "expertise": "Endocrinologist",
             "city": "Chennai",
             "image_link": "https://plus.unsplash.com/premium_photo-1682096894520-d7f7794c3981?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "id": 8,
-            "name": "Dr. Kapoor",
+            "name": "Dr. Raju Kapoor",
             "expertise": "Rheumatologist",
             "city": "Jaipur",
-            "image_link": "https://images.unsplash.com/photo-1642975967602-653d378f3b5b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            "image_link": "https://img.freepik.com/free-photo/nurse-portrait-hospital_23-2150780304.jpg?t=st=1706094410~exp=1706098010~hmac=1989d5d7359ea7555bbf8732df47cfb395e7ab3c05347502e655b9c73be5248c&w=996"
         },
         {
             "id": 9,
-            "name": "Dr. Singh",
+            "name": "Dr. Deepak Singh",
             "expertise": "ENT Specialist",
             "city": "Lucknow",
             "image_link": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?size=626&ext=jpg&ga=GA1.1.1991719597.1692086904&semt=sph"
         },
         {
             "id": 10,
-            "name": "Dr. Verma",
+            "name": "Dr. Yogesh Verma",
             "expertise": "Pulmonologist",
             "city": "Kolkata",
-            "image_link": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg?size=626&ext=jpg&ga=GA1.1.1991719597.1692086904&semt=sph"
+            "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxUJ_kOh-4mPOy2oYS6a7fe6gNfuF17uM61Q&usqp=CAU"
         },
         {
             "id": 11,
@@ -114,24 +114,24 @@
     },
     {
       "id": 17,
-      "name": "Dr. Joshi",
-      "expertise": "Orthopedic Surgeon",
+      "name": "Dr. Vaishnavi Deshmukh",
+      "expertise": "Neuro Rehabilitation",
       "city": "Pune",
-      "image_link": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image_link": "https://images.healthshots.com/healthshots/en/uploads/2022/07/02195043/doctor-stress.jpg"
     },
     {
       "id": 18,
-      "name": "Dr. Malhotra",
+      "name": "Dr. Rahul Malhotra",
       "expertise": "Endocrinologist",
       "city": "Chennai",
-      "image_link": "https://plus.unsplash.com/premium_photo-1682096894520-d7f7794c3981?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image_link": "https://img.freepik.com/free-photo/medium-shot-doctor-with-crossed-arms_23-2148868176.jpg?w=996&t=st=1706094493~exp=1706095093~hmac=6d1938b68987d5ca9f1cdbcd9a77750c2129bf3d9545a21a6d50e4f0c9802272"
     },
     {
       "id": 19,
-      "name": "Dr. Kapoor",
+      "name": "Dr. Shailesh Kapoor",
       "expertise": "Rheumatologist",
       "city": "Jaipur",
-      "image_link": "https://images.unsplash.com/photo-1642975967602-653d378f3b5b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image_link": "https://img.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg?w=996&t=st=1706094318~exp=1706094918~hmac=b9b9b84776a3c5dc496de562048cd48ff32ec4be35e7c68d8f21d12a4416e9f6"
     },
     {
       "id": 20,
@@ -142,7 +142,7 @@
     },
     {
       "id": 21,
-      "name": "Dr. Verma",
+      "name": "Dr. Sanjana Verma",
       "expertise": "Pulmonologist",
       "city": "Kolkata",
       "image_link": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg?size=626&ext=jpg&ga=GA1.1.1991719597.1692086904&semt=sph"
