@@ -33,7 +33,7 @@
             "name": "Dr. Khan",
             "expertise": "Obstetrician",
             "city": "Bangalore",
-            "image_link": "https://images.unsplash.com/photo-1623650430273-dbd48d9986c0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTF8fGRvY3RvcnxlbnwwfHwwfHx8MA%3D%3D"
+            "image_link": "https://plus.unsplash.com/premium_photo-1661396927602-fab2bb517246?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "id": 6,
@@ -83,6 +83,97 @@
             "expertise": "Dentist",
             "city": "Surat",
             "image_link": "https://img.freepik.com/free-photo/medical-workers-covid-19-vaccination-concept-confident-professional-doctor-female-nurse-blue-scrubs-stethoscope-show-thumbs-up-assure-guarantee-best-quality-service-clinic_1258-57360.jpg?w=996&t=st=1705772551~exp=1705773151~hmac=f40682e8d71f282cc3d70718021d09f0586ba28ab1f40d6119a066cd6afef7a1"
-        }
+        },   
+        {
+            "id": 13,
+            "name": "Dr. Payal Reddy",
+            "expertise": "Neuro Science",
+            "city": "Pune",
+            "image_link": "https://img.freepik.com/free-photo/smiling-doctor-with-stethoscope-holding-clipboard-white-background_114579-49847.jpg?w=996&t=st=1706017533~exp=1706018133~hmac=ed89b26810258372feef81095429c471e9e7f91c9d8edbb8ccaf2785e7c79291"
+        },
+        {
+            "id": 14,
+            "name": "Dr. Pankaj Sharma",
+            "expertise": "Neuro Rehabilitation",
+            "city": "Mumbai",
+            "image_link": "https://img.freepik.com/free-photo/portrait-mature-therapist-sitting-table-looking-camera_1098-18156.jpg?w=996&t=st=1706014564~exp=1706015164~hmac=c499e65a8a208bd49c7da9f02f52c9486dd025fc732da24408be78bd81090a43"
+        },
+          {
+            "id": 15,
+            "name": "Dr. Mahesh Gupta",
+            "expertise": "Advanced Sports Therapy",
+            "city": "Mumbai",
+            "image_link": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?w=996&t=st=1706014481~exp=1706015081~hmac=9ed387639d0b8ec3c82a0a1ede9ac6ad79dcaad9955b86052157de73653d6c65"
+        },
+            {
+      "id": 16,
+      "name": "Dr. Khan",
+      "expertise": "Cardiologist",
+      "city": "Bangalore",
+      "image_link": "https://images.unsplash.com/photo-1623650430273-dbd48d9986c0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTF8fGRvY3RvcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 17,
+      "name": "Dr. Joshi",
+      "expertise": "Orthopedic Surgeon",
+      "city": "Pune",
+      "image_link": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 18,
+      "name": "Dr. Malhotra",
+      "expertise": "Endocrinologist",
+      "city": "Chennai",
+      "image_link": "https://plus.unsplash.com/premium_photo-1682096894520-d7f7794c3981?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 19,
+      "name": "Dr. Kapoor",
+      "expertise": "Rheumatologist",
+      "city": "Jaipur",
+      "image_link": "https://images.unsplash.com/photo-1642975967602-653d378f3b5b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 20,
+      "name": "Dr. Singh",
+      "expertise": "ENT Specialist",
+      "city": "Lucknow",
+      "image_link": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?size=626&ext=jpg&ga=GA1.1.1991719597.1692086904&semt=sph"
+    },
+    {
+      "id": 21,
+      "name": "Dr. Verma",
+      "expertise": "Pulmonologist",
+      "city": "Kolkata",
+      "image_link": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg?size=626&ext=jpg&ga=GA1.1.1991719597.1692086904&semt=sph"
+    },
+    {
+      "id": 22,
+      "name": "Dr. Agarwal",
+      "expertise": "Urologist",
+      "city": "Bhopal",
+      "image_link": "https://img.freepik.com/free-photo/nurse-portrait-hospital_23-2150780304.jpg?size=626&ext=jpg&ga=GA1.1.1991719597.1692086904&semt=sph"
+    },
+    {
+      "id": 23,
+      "name": "Dr. Desai",
+      "expertise": "Dentist",
+      "city": "Surat",
+      "image_link": "https://img.freepik.com/free-photo/medical-workers-covid-19-vaccination-concept-confident-professional-doctor-female-nurse-blue-scrubs-stethoscope-show-thumbs-up-assure-guarantee-best-quality-service-clinic_1258-57360.jpg?w=996&t=st=1705772551~exp=1705773151~hmac=f40682e8d71f282cc3d70718021d09f0586ba28ab1f40d6119a066cd6afef7a1"
+    },
+    {
+      "id": 24,
+      "name": "Dr. Reddy",
+      "expertise": "Gastroenterologist",
+      "city": "Hyderabad",
+      "image_link": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fHw%3D"
+    },
+    {
+      "id": 25,
+      "name": "Dr. Kumar",
+      "expertise": "Dermatologist",
+      "city": "Bangalore",
+      "image_link": "https://plus.unsplash.com/premium_photo-1661396927602-fab2bb517246?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
     ]
 }
