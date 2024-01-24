@@ -19,21 +19,21 @@
             "name": "Dr. Patel",
             "expertise": "Dermatologist",
             "city": "Ahmedabad",
-            "image_link": "https://plus.unsplash.com/premium_photo-1661764878654-3d0fc2eefcca?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            "image_link": "https://static.vecteezy.com/system/resources/thumbnails/028/287/555/small/an-indian-young-female-doctor-isolated-on-green-ai-generated-photo.jpg"
         },
         {
             "id": 4,
-            "name": "Dr. Reddy",
+            "name": "Dr. Gaikwad",
             "expertise": "Gastroenterologist",
             "city": "Hyderabad",
-            "image_link": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fHw%3D"
+            "image_link": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2017/02/02060408/shutterstock_287380919.jpg"
         },
         {
             "id": 5,
             "name": "Dr. Soniya Khan",
             "expertise": "Obstetrician",
             "city": "Bangalore",
-            "image_link": "https://specialisthospital.in/wp-content/uploads/2023/05/NewDoctorsWebsite-Anitha.jpg"
+            "image_link": "https://t4.ftcdn.net/jpg/03/20/74/45/360_F_320744517_TaGkT7aRlqqWdfGUuzRKDABtFEoN5CiO.jpg"
         },
         {
             "id": 6,
@@ -110,7 +110,7 @@
       "name": "Dr. Khan",
       "expertise": "Cardiologist",
       "city": "Bangalore",
-      "image_link": "https://images.unsplash.com/photo-1623650430273-dbd48d9986c0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTF8fGRvY3RvcnxlbnwwfHwwfHx8MA%3D%3D"
+      "image_link": "https://s3.envato.com/files/354413107/2072.jpg"
     },
     {
       "id": 17,
@@ -138,7 +138,7 @@
       "name": "Dr. Singh",
       "expertise": "ENT Specialist",
       "city": "Lucknow",
-      "image_link": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?size=626&ext=jpg&ga=GA1.1.1991719597.1692086904&semt=sph"
+      "image_link": "https://media.istockphoto.com/id/1446041217/photo/portrait-of-smiling-male-doctor-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=t1y5xibAPFIzOa1oN4tQ5RQKSiURBU2VxeJahOSw9wE="
     },
     {
       "id": 21,
@@ -149,24 +149,24 @@
     },
     {
       "id": 22,
-      "name": "Dr. Agarwal",
+      "name": "Dr. Shlok Agarwal",
       "expertise": "Urologist",
       "city": "Bhopal",
-      "image_link": "https://img.freepik.com/free-photo/nurse-portrait-hospital_23-2150780304.jpg?size=626&ext=jpg&ga=GA1.1.1991719597.1692086904&semt=sph"
+      "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdPenbZxfcSOuhiFgU_sFWraAQxYlXU-ovw&usqp=CAU"
     },
     {
       "id": 23,
-      "name": "Dr. Desai",
+      "name": "Dr. Neha Desai",
       "expertise": "Dentist",
       "city": "Surat",
-      "image_link": "https://img.freepik.com/free-photo/medical-workers-covid-19-vaccination-concept-confident-professional-doctor-female-nurse-blue-scrubs-stethoscope-show-thumbs-up-assure-guarantee-best-quality-service-clinic_1258-57360.jpg?w=996&t=st=1705772551~exp=1705773151~hmac=f40682e8d71f282cc3d70718021d09f0586ba28ab1f40d6119a066cd6afef7a1"
+      "image_link": "https://www.shutterstock.com/image-photo/confident-young-adult-indian-female-260nw-1784123909.jpg"
     },
     {
       "id": 24,
       "name": "Dr. Reddy",
-      "expertise": "Gastroenterologist",
+      "expertise": "Neuro Science",
       "city": "Hyderabad",
-      "image_link": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fHw%3D"
+      "image_link": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2017/02/02060408/shutterstock_287380919.jpg"
     },
     {
       "id": 25,
